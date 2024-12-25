@@ -1,0 +1,3 @@
+redis 
+threading 
+python-dotenv 
